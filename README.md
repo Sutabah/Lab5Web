@@ -37,3 +37,8 @@ Menambahkan form button
 Menambahkan html dom dan check box untuk melakukan perhitungan otomatis
 
 ![8](https://user-images.githubusercontent.com/81844622/116671843-a06ec000-a9cb-11eb-9905-eae7c67a3889.jpg)
+
+Tugas Script untuk melakukan validasi pada isian form
+
+![form validasi](https://user-images.githubusercontent.com/81844622/116672970-fc861400-a9cc-11eb-9d13-22497b3fda34.jpg)
+
